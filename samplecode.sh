@@ -1,1 +1,5 @@
-Welcome to the my demo project - Abhilash kale
+echo "Welcome to the my demo project"
+
+echo "this is my first project"
+
+
